@@ -2,7 +2,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Built with](#built-with)
+  - [IDE](#IDE)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -11,8 +11,9 @@
 ###
  <ol>
   <li>Predicting the percentage of an student based on the number of study hours.
-  <li>The model used is Linear Regression.
-  <li>For example:what will we predicted if a student studies for 9.2hours? Download the model to know.
+  <li>The algorithm used is Linear Regression.
+  <li>For example: What will we predicted if a student studies for 9.2hours? 
+    Download the model to know.
 
  
  </ol>
@@ -20,12 +21,6 @@
 ### to run this project :
   - clone this project.
 ### Screenshot
-
-![home page](./screenshots/homePage.png)
-<br>
-![customers page ](./screenshots/showCustomers.png)
-![transfer money page](./screenshots/transferAction.png)
-![history page](./screenshots/history.png)
 
 ### IDE used:
 
