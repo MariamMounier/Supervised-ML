@@ -21,7 +21,8 @@
 ### to run this project :
   - clone this project.
 ### Screenshots
-![Uploading ss1.png…]()
+![ss1](https://user-images.githubusercontent.com/61360429/206864862-6a87c610-c1be-4d31-b180-08534a8ea6e3.png)
+
 ![ss2](https://user-images.githubusercontent.com/61360429/206864763-f60f7ad3-997b-48a1-b063-64b760eeae82.png)
 ![ss3](https://user-images.githubusercontent.com/61360429/206864766-00c2b593-0a90-47b3-905d-5086140b757b.png)
 
