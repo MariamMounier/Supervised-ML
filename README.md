@@ -20,7 +20,10 @@
 
 ### to run this project :
   - clone this project.
-### Screenshot
+### Screenshots
+![Uploading ss1.png…]()
+![ss2](https://user-images.githubusercontent.com/61360429/206864763-f60f7ad3-997b-48a1-b063-64b760eeae82.png)
+![ss3](https://user-images.githubusercontent.com/61360429/206864766-00c2b593-0a90-47b3-905d-5086140b757b.png)
 
 ### IDE used:
 
